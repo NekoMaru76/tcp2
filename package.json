@@ -1,0 +1,34 @@
+{
+  "name": "tcp2",
+  "version": "1.0.0-beta1",
+  "description": "A Wrapper of Node.JS' net API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "net",
+    "wrapper",
+    "evodev",
+    "nekomaru76",
+    "node.js",
+    "fast",
+    "communication",
+    "tcp"
+  ],
+  "author": "nekomaru76",
+  "license": "MIT",
+  "dependencies": {
+    "@evodev/eventemitter": "^1.0.7",
+    "cuid": "^2.1.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoMaru76/tcp2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NekoMaru76/tcp2/issues"
+  },
+  "homepage": "https://github.com/NekoMaru76/tcp2#readme"
+}
